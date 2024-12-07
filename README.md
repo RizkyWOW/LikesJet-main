@@ -20,7 +20,7 @@
 $ apt update -y && apt upgrade -y
 $ pkg install python-pip
 $ pkg install git
-$ git clone https://github.com/RozhakXD/LikesJet.git
+$ git clone https://github.com/RizkyWow/LikesJet.git
 $ cd LikesJet
 $ pip install -r requirements.txt
 $ python Run.py
@@ -46,11 +46,3 @@ This project is intended for educational and personal use only. The developers d
 
 Use LikesJet ethically and responsibly to enhance personal engagement without disrupting Instagram's ecosystem or infringing on others' rights.
 
-## 🖼️ Screenshots
-![FunPic_20241202](https://github.com/user-attachments/assets/19813e90-8c5e-467d-9f8e-0b120f7670d7)
-
-## 🌟 Support the Developer
-If you find this tool helpful, consider supporting the development through [Trakteer](https://trakteer.id/rozhak_official/tip), [PayPal](https://paypal.me/rozhak9), or [Saweria](https://saweria.co/rozhak9). Your support helps us maintain and improve this project. ❤️
-
-## 📜 License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
